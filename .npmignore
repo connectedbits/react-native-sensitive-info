@@ -4,5 +4,5 @@
 !windows/**
 !./package.json
 !index.d.ts
-!react-native-sensitive-info.podspec
+!connectedbits-react-native-sensitive-info.podspec
 !build/**
